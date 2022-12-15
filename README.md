@@ -19,6 +19,7 @@ Left hand side of page, filter search boxes. Click within each box to input acce
 •	Date, city, state, country, and shape
 
 ![filter_search](https://user-images.githubusercontent.com/111043588/207828415-377bfffc-7e0c-49d4-9a68-2ca9f91fb0f6.PNG)
+
 ![UFOs Filters](https://user-images.githubusercontent.com/111043588/207828420-a84cc5a1-b11c-42bb-b370-752d393f9ced.PNG)
 
 Should any of the information entered into the text box be incorrect the table will not produce any results. Try again 
