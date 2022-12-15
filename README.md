@@ -11,7 +11,7 @@ Click link below to access webpage.
 
 file:///C:/Users/Jason/Desktop/Git%20Lab/UFOs/index.html
 
-![UFOs Filters](https://user-images.githubusercontent.com/111043588/207828420-a84cc5a1-b11c-42bb-b370-752d393f9ced.PNG)
+![UFOs webpage](https://user-images.githubusercontent.com/111043588/207829241-6bd7e73d-f450-403b-9fb9-3600a8febfe7.PNG)
 
 
 Left hand side of page, filter search boxes. Click within each box to input accepted text information:
